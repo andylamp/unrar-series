@@ -16,7 +16,7 @@
 #                 is what running powershell as administrator and typing this does!
 #
 #
-# Oh... almost forgot... this is licensed under the BSD License, so do what the
+# Oh... almost forgot... this is licensed under the MIT License, so do what the
 # fuck you want with it... should you like it and buy me a beer I'd be extremely 
 # happy :)
 #
